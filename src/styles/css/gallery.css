@@ -1,0 +1,42 @@
+.Ellipse-13 {
+  width: 1440px;
+  height: 368px;
+  margin: 55px 0 523px;
+  padding: 18px 229px 142px 231px;
+  transform: rotate(-180deg);
+  border: solid 1px #000 !important;
+}
+
+.WEDDING-PLANNER {
+  flex-grow: 0;
+  font-family: CormorantGaramond;
+  font-size: 36px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.25;
+  letter-spacing: normal;
+  text-align: left;
+  color: #d9544d;
+}
+
+.Andera-Dsouza-Gallery {
+  width: 100%;
+  flex-grow: 0;
+  background-color: #fff;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-Cras-aliquam-mi-id-augue-ultrices-in-tempu {
+  margin: auto 20%;
+  font-family: Montserrat;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.8;
+  letter-spacing: normal;
+  text-align: center;
+  color: #555;
+}

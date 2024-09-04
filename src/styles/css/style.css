@@ -1,0 +1,1595 @@
+/* Material UI Css */
+/* @import 'react-alice-carousel/lib/alice-carousel.css'; */
+
+.css-1eed5fa-MuiInputBase-root-MuiInput-root:hover:not(
+    .Mui-disabled,
+    .Mui-error
+  ):before {
+  border-bottom: 1px solid rgb(255 255 255 / 87%);
+}
+.css-1x51dt5-MuiInputBase-input-MuiInput-input:focus {
+  color: white !important;
+}
+.css-1eed5fa-MuiInputBase-root-MuiInput-root::after {
+  border-bottom: 1px solid #ffffff;
+}
+
+.MuiInputBase-root {
+  border-bottom: 1px solid #ffffff;
+}
+
+.css-1rwt2y5-MuiButtonBase-root-MuiButton-root:hover {
+  border: 2px solid #ffffff;
+}
+/* home page */
+.andera-dsouza-website-child,
+.path-stroke-icon {
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.andera-dsouza-website-child {
+  height: 589px;
+  bottom: -22px;
+}
+.path-stroke-icon {
+  height: 780px;
+  top: 0;
+  object-fit: cover;
+}
+.path-stroke-icon1 {
+  width: 6px;
+  height: 13px;
+  position: absolute;
+  margin: 0 !important;
+  right: -236px;
+  bottom: -1798px;
+}
+.frame-child {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+}
+.frame-item {
+  border-right: 3px solid var(--color-indianred);
+  box-sizing: border-box;
+  width: 3px;
+  height: 60px;
+  z-index: 2;
+}
+.ellipse-parent {
+  align-self: stretch;
+  height: 137px;
+  position: relative;
+}
+.drawing-from-years,
+.i-am-deeply,
+.of-successful-events {
+  font-weight: 500;
+}
+.i-am-deeply-container {
+  margin: 0;
+  width: 1065px;
+  position: relative;
+  font-size: inherit;
+  line-height: 52px;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  font-family: inherit;
+}
+.frame-parent,
+.i-am-deeply-passionate-about-c-wrapper {
+  align-self: stretch;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.i-am-deeply-passionate-about-c-wrapper {
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 0 var(--padding-2xl);
+}
+.frame-parent {
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 65px;
+  gap: 5px;
+  text-align: center;
+  font-size: var(--font-size-17xl);
+  color: var(--color-indianred);
+  font-family: var(--font-cormorant-garamond);
+}
+.frame-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: #272727;
+  width: 1440px;
+  height: 180px;
+  z-index: 3;
+}
+.sitemap {
+  position: absolute;
+  top: 160px;
+  left: 1035px;
+  text-transform: uppercase;
+  display: inline-block;
+  min-width: 91px;
+  z-index: 4;
+}
+.ellipse-group {
+  width: 100%;
+  height: 184px;
+  position: absolute;
+  margin: 0 !important;
+  right: 0;
+  bottom: 396px;
+  left: 0;
+  text-align: left;
+  font-size: var(--h02-size);
+  color: var(--color-indianred);
+  font-family: var(--text);
+}
+.events {
+  width: 54px;
+  position: relative;
+  line-height: 25px;
+  display: none;
+  z-index: 10;
+}
+.andera-dsouza-website {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 46px 0 64px;
+  box-sizing: border-box;
+  /* gap: 70px; */
+  letter-spacing: normal;
+  text-align: left;
+  font-size: var(--text-size);
+  color: var(--color);
+  font-family: var(--text);
+}
+@media screen and (max-width: 1050px) {
+  .i-am-deeply-container {
+    font-size: var(--font-size-10xl);
+    line-height: 42px;
+  }
+}
+@media screen and (max-width: 750px) {
+  .andera-dsouza-website {
+    gap: 35px 70px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .i-am-deeply-container {
+    font-size: var(--font-size-3xl);
+    line-height: 31px;
+  }
+  .frame-parent {
+    padding-bottom: var(--padding-23xl);
+    box-sizing: border-box;
+  }
+  .sitemap {
+    font-size: var(--text-size);
+  }
+  .andera-dsouza-website {
+    gap: 17px 70px;
+  }
+}
+
+/* section2 */
+.life-is-an {
+  width: 222px;
+  position: relative;
+  letter-spacing: 5px;
+  line-height: 25px;
+  text-transform: uppercase;
+  display: inline-block;
+  z-index: 1;
+}
+.life-is-an-event-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-6xl) 0 var(--padding-xl);
+}
+.creating-the-best {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.creating-the-best-day-ever-wrapper {
+  align-self: stretch;
+  /* display: flex; */
+  padding: 17px 10px !important;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  /* padding: 0 var(--padding-21xl); */
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.from-dreamy-visions {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--text-size);
+  line-height: 25px;
+  font-family: var(--text);
+  color: var(--color-black);
+  z-index: 1;
+}
+.frame-button {
+  height: 50px;
+  width: 211px;
+  z-index: 1;
+}
+.frame-wrapper {
+  align-self: stretch;
+  height: 49px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+}
+.frame-parent1 {
+  align-self: stretch;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-sm);
+  font-size: var(--font-size-41xl);
+  color: var(--color-tomato);
+  font-family: var(--font-cormorant-garamond);
+}
+.frame-div,
+.frame-parent1,
+.frame-section {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-div {
+  width: 578px;
+  flex-direction: column;
+  justify-content: center;
+  gap: var(--gap-sm);
+  display: flex;
+  justify-content: end;
+}
+.frame-section {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-xl) var(--padding-126xl);
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(--text-size);
+  color: var(--color-gray-100);
+  font-family: var(--text);
+  /* padding-bottom: 0; */
+}
+@media screen and (max-width: 1050px) {
+  .creating-the-best {
+    font-size: var(--font-size-29xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .creating-the-best {
+    font-size: var(--font-size-17xl);
+  }
+  .frame-section {
+    padding-bottom: var(--padding-75xl);
+    box-sizing: border-box;
+  }
+}
+/* sec3 */
+.group-icon {
+  height: 550px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  min-width: 382px;
+}
+.your-exclusive {
+  width: 214px;
+  position: relative;
+  letter-spacing: 5px;
+  line-height: 25px;
+  text-transform: uppercase;
+  font-weight: 500;
+  display: inline-block;
+}
+.wedding-planner {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-21xl);
+  line-height: 45px;
+  font-weight: 600;
+  font-family: var(--font-cormorant-garamond);
+  color: var(--color-indianred);
+  text-align: left;
+}
+.your-exclusive-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+  max-width: 100%;
+}
+.lorem-ipsum-dolor {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 30px;
+  color: var(--color-dimgray);
+  text-align: left;
+}
+.frame-parent4 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.frame-child1 {
+  width: 173px;
+  height: 50px;
+}
+.frame-parent3,
+.frame-wrapper1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent3 {
+  align-self: stretch;
+  gap: var(--gap-mid);
+}
+.frame-wrapper1 {
+  width: 543px;
+  padding: var(--padding-83xl) 0 0;
+  box-sizing: border-box;
+  min-width: 543px;
+}
+.andera-dsouza-website-inner1,
+.frame-parent2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  max-width: 100%;
+}
+.frame-parent2 {
+  width: 1179px;
+  gap: var(--gap-29xl);
+}
+.andera-dsouza-website-inner1 {
+  align-self: stretch;
+  padding: 0 var(--padding-xl) var(--padding-55xl) var(--padding-2xl);
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(--text-size);
+  color: var(--color-gray-100);
+  font-family: var(--text);
+}
+@media screen and (max-width: 1050px) {
+  .wedding-planner {
+    font-size: var(--font-size-13xl);
+    line-height: 36px;
+  }
+  .frame-wrapper1 {
+    flex: 1;
+  }
+  .frame-parent2 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 750px) {
+  .frame-wrapper1 {
+    min-width: 100%;
+  }
+  .frame-parent2 {
+    gap: 48px 24px;
+  }
+  .andera-dsouza-website-inner1 {
+    padding-bottom: var(--padding-29xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .group-icon {
+    min-width: 100%;
+  }
+  .wedding-planner {
+    font-size: var(--font-size-5xl);
+    line-height: 27px;
+  }
+  .frame-wrapper1 {
+    padding-top: var(--padding-47xl);
+    box-sizing: border-box;
+  }
+}
+
+/* carousel */
+
+.ellipse-icon {
+  height: 176px;
+  width: 176px;
+  position: relative;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.ellipse-wrapper {
+  align-self: stretch;
+  height: 100px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+}
+.cyril-lopes {
+  margin: 0;
+  position: relative;
+  text-align: center;
+  font-size: var(--font-size-21xl);
+  line-height: 30px;
+  font-weight: 600;
+  font-family: Cormorant + Garamond;
+  color: var(--color-indianred);
+}
+.cyril-lopes-angelina-jolly-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+}
+.lorem-ipsum-dolor1 {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-5xl);
+  line-height: 45px;
+  font-weight: 400;
+  font-family: var(--text);
+  color: var(--color-dimgray);
+  text-align: center;
+}
+.vector-icon {
+  object-fit: contain;
+}
+.vector-icon,
+.vector-icon1 {
+  height: 50.1px;
+  width: 50.1px;
+  position: relative;
+  min-height: 50px;
+  flex-shrink: 0;
+}
+.frame-wrapper2,
+.vector-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.vector-parent {
+  justify-content: flex-start;
+  gap: var(--gap-base-8);
+}
+.frame-wrapper2 {
+  height: 50.1px;
+  justify-content: center;
+}
+.vector-icon2,
+.vector-icon3 {
+  width: 281.9px;
+  height: 281.9px;
+  position: absolute;
+  margin: 0 !important;
+  object-fit: contain;
+  z-index: 1;
+}
+.vector-icon2 {
+  bottom: -70px;
+  left: -64px;
+}
+.vector-icon3 {
+  top: -70px;
+  right: -64px;
+}
+.frame-parent6 {
+  align-self: stretch;
+  border-radius: var(--br-base) var(--br-12xs) var(--br-base) var(--br-12xs);
+  background-color: var(--color-white);
+  box-shadow: 0 1px 4px #d9544d;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-25xl) var(--padding-32xl);
+  position: relative;
+  gap: var(--gap-17xl);
+  margin: 5% 10%;
+}
+.ellipse-div,
+.frame-child2 {
+  height: 14px;
+  width: 14px;
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--color-whitesmoke);
+}
+.frame-child2 {
+  height: 10px;
+  width: 10px;
+  position: absolute;
+  margin: 0 !important;
+  top: 2px;
+  left: 2px;
+  background-color: var(--color-indianred);
+  box-shadow: 0 0 4px #d9544d;
+  z-index: 1;
+}
+.ellipse-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  gap: var(--gap-3xs);
+}
+.frame-child3 {
+  width: 8px;
+  height: 8px;
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--color-darkgray);
+}
+.ellipse-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) 0 0;
+}
+.frame-child4 {
+  width: 8px;
+  height: 8px;
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--color-darkgray);
+}
+.ellipse-wrapper1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) 0 0;
+}
+.frame-child5 {
+  width: 8px;
+  height: 8px;
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--color-darkgray);
+}
+.ellipse-wrapper2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) 0 0;
+}
+.frame-child6 {
+  width: 8px;
+  height: 8px;
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--color-darkgray);
+}
+.ellipse-wrapper3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) 0 0;
+}
+.frame-parent7,
+.frame-wrapper3 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.frame-parent7 {
+  justify-content: flex-start;
+  gap: var(--gap-4xs);
+}
+.frame-wrapper3 {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 var(--padding-2xl) 0 var(--padding-xl);
+}
+.andera-dsouza-website-inner2,
+.frame-parent5 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent5 {
+  width: 100%;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-13xl-9);
+}
+.andera-dsouza-website-inner2 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-xl) var(--padding-6xs) var(--padding-2xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-indianred);
+  font-family: var(--font-cormorant-garamond);
+}
+@media screen and (max-width: 1200px) {
+  .frame-parent6 {
+    padding-left: var(--padding-6xl);
+    padding-right: var(--padding-6xl);
+    box-sizing: border-box;
+    margin: 10% 10% !important;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .cyril-lopes {
+    font-size: var(--font-size-21xl);
+    line-height: 35px;
+  }
+}
+@media screen and (max-width: 750px) {
+  .frame-parent6 {
+    gap: 18px 36px;
+    padding-top: var(--padding-10xl);
+    padding-bottom: var(--padding-10xl);
+    box-sizing: border-box;
+  }
+  .frame-parent5 {
+    gap: 16px 32.9px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .cyril-lopes {
+    font-size: var(--font-size-10xl);
+    line-height: 30px;
+  }
+  .lorem-ipsum-dolor1 {
+    font-size: var(--font-size-lgi);
+    line-height: 36px;
+  }
+}
+
+/* about  CSS */
+.drawing-from-years,
+.i-am-deeply,
+.of-successful-events {
+  font-weight: 500;
+}
+.creating-the-best,
+.i-am-deeply-container {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.i-am-deeply-container {
+  width: 980px;
+  line-height: 52px;
+  min-width: 980px;
+  max-width: 100%;
+  z-index: 2;
+}
+.creating-the-best {
+  align-self: stretch;
+  height: 146px;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.hello-my-name {
+  margin: 0;
+}
+.hello-my-name-container {
+  margin: 0;
+  position: relative;
+  font-size: 30px;
+  line-height: 56px;
+  font-weight: 600;
+  font-family: inherit;
+  z-index: 1;
+}
+.welcome-to-our {
+  flex: 1;
+  position: relative;
+  line-height: 45px;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.signature-1-icon,
+.about-vector-icon {
+  position: absolute;
+  object-fit: contain;
+}
+.about-vector-icon {
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: -60px;
+  max-height: 100%;
+  width: 470.3px;
+}
+.signature-1-icon {
+  top: 624px;
+  left: 184px;
+  width: 246px;
+  height: 86px;
+  z-index: 1;
+}
+.about-vector-parent {
+  height: 804px;
+  width: 430px;
+  position: absolute;
+  margin: 0 !important;
+  top: -358px;
+  left: -130px;
+}
+.facebook-icon,
+.welcome-to-our-website-we-are-parent {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.welcome-to-our-website-we-are-parent {
+  flex-direction: row;
+  position: relative;
+  font-size: var(--h02-size);
+  color: var(--color-dimgray);
+}
+.facebook-icon {
+  flex-direction: column;
+  gap: var(--gap-8xl);
+}
+.with-love {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 45px;
+  font-weight: 600;
+  font-family: inherit;
+  z-index: 1;
+}
+.header-background {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-4xl) 0 var(--padding-5xl);
+}
+.andrea-dsouza1 {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-5xl);
+  line-height: 45px;
+  font-weight: 900;
+  font-family: inherit;
+  z-index: 2;
+}
+.header-background-parent {
+  display: flex;
+  flex-direction: column;
+  /* align-items: flex-start; */
+  justify-content: flex-start;
+  align-items: center;
+}
+.instagram-icon,
+.whatsapp-icon,
+.whatsapp-icon-inner {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.whatsapp-icon-inner {
+  flex-direction: row;
+  padding: 0 var(--padding-44xl);
+  box-sizing: border-box;
+  font-size: var(--font-size-11xl);
+  color: var(--color-dimgray);
+}
+.instagram-icon,
+.whatsapp-icon {
+  flex-direction: column;
+}
+.whatsapp-icon {
+  align-self: stretch;
+  gap: var(--gap-118xl);
+}
+.instagram-icon {
+  flex: 1;
+  padding: var(--padding-4xs) 0 0;
+  box-sizing: border-box;
+  min-width: 386px;
+}
+.place-wedding-ceremony-with-we-icon {
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 3px;
+  top: 4px;
+  transform: scale(1.138);
+}
+.wrapper-place-wedding-ceremony {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 113px;
+  max-height: 100%;
+  width: 362px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.place-wedding-ceremony-with-we-icon1 {
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  object-fit: contain;
+  position: absolute;
+  left: 3px;
+  top: 4px;
+  transform: scale(1.298);
+}
+.wrapper-place-wedding-ceremony1 {
+  position: absolute;
+  top: 307px;
+  left: 0;
+  width: 168px;
+  height: 170px;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.button-bg {
+  height: 500px;
+  width: 475px;
+  position: relative;
+  min-width: 475px;
+  max-width: 100%;
+}
+.frame-container,
+.instagram-icon-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.instagram-icon-parent {
+  width: 1191px;
+  flex-direction: row;
+  padding: 0 var(--padding-xl) 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-83xl);
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  font-family: var(--text);
+}
+.frame-container {
+  align-self: stretch;
+  flex-direction: column;
+  gap: var(--gap-43xl);
+}
+.place-wedding-ceremony-with-we-icon2 {
+  height: 100%;
+  width: 100%;
+  z-index: 1;
+  object-fit: contain;
+  position: absolute;
+  left: 3px;
+  top: 4px;
+  transform: scale(1.11);
+}
+.wrapper-place-wedding-ceremony2 {
+  height: 544px;
+  width: 454px;
+  position: relative;
+  border-radius: var(--br-12xs);
+  max-width: 100%;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.image-2-icon {
+  height: 100%;
+  flex: 1;
+  overflow: hidden;
+  z-index: 1;
+  object-fit: contain;
+  position: absolute;
+  left: 3px;
+  top: 4px;
+  width: 100%;
+  transform: scale(1.108);
+}
+.wrapper-image-2 {
+  height: 464px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  min-width: 373px;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.footer-bg,
+.frame-group-section3,
+.wrapper-place-wedding-ceremony-parent {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.wrapper-place-wedding-ceremony-parent {
+  flex: 1;
+  align-items: flex-end;
+  gap: var(--gap-114xl);
+}
+.footer-bg,
+.frame-group-section3 {
+  width: 1187px;
+  align-items: flex-start;
+  padding: 0 var(--padding-smi);
+  box-sizing: border-box;
+}
+.frame-group-section3 {
+  width: 1330px;
+  flex-direction: column;
+  padding: 0 0 var(--padding-75xl) var(--padding-xl);
+  gap: var(--gap-58xl);
+  text-align: center;
+  font-size: var(--font-size-17xl);
+  color: var(--color-indianred);
+  font-family: var(--font-cormorant-garamond);
+}
+@media screen and (max-width: 1400px) {
+  .i-am-deeply-passionate-about-c-parent {
+    flex-wrap: wrap;
+    gap: var(--gap-230xl);
+  }
+  .instagram-icon-parent {
+    gap: var(--gap-32xl);
+  }
+  .frame-group-section3 {
+    padding-bottom: var(--padding-42xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1125px) {
+  .i-am-deeply-container {
+    min-width: 100%;
+  }
+  .button-bg {
+    flex: 1;
+  }
+  .instagram-icon-parent {
+    flex-wrap: wrap;
+  }
+  .place-wedding-ceremony-with-we-icon2 {
+    flex: 1;
+  }
+  .wrapper-place-wedding-ceremony-parent {
+    flex-wrap: wrap;
+    gap: var(--gap-47xl);
+  }
+}
+@media screen and (max-width: 825px) {
+  .i-am-deeply-container {
+    font-size: var(--font-size-10xl);
+    line-height: 42px;
+  }
+  .creating-the-best {
+    font-size: var(--font-size-29xl);
+  }
+  .i-am-deeply-passionate-about-c-parent {
+    gap: var(--gap-105xl);
+  }
+  .hello-my-name-container {
+    font-size: var(--font-size-13xl);
+    line-height: 45px;
+  }
+  .with-love {
+    font-size: var(--font-size-5xl);
+    line-height: 36px;
+  }
+  .whatsapp-icon {
+    gap: var(--gap-49xl);
+  }
+  .button-bg,
+  .instagram-icon {
+    min-width: 100%;
+  }
+  .instagram-icon-parent {
+    gap: var(--gap-6xl);
+  }
+  .frame-container {
+    gap: var(--gap-12xl);
+  }
+  .wrapper-place-wedding-ceremony-parent {
+    gap: var(--gap-14xl);
+  }
+  .frame-group-section3 {
+    gap: var(--gap-19xl);
+    padding-bottom: var(--padding-21xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .i-am-deeply-container {
+    font-size: var(--font-size-3xl);
+    line-height: 31px;
+  }
+  .creating-the-best {
+    font-size: var(--font-size-17xl);
+  }
+  .i-am-deeply-passionate-about-c-parent {
+    gap: var(--gap-43xl);
+  }
+  .hello-my-name-container {
+    font-size: var(--font-size-5xl);
+    line-height: 34px;
+  }
+  .welcome-to-our {
+    font-size: var(--text-size);
+    line-height: 36px;
+  }
+  .with-love {
+    font-size: var(--font-size-lg);
+    line-height: 27px;
+  }
+  .andrea-dsouza1 {
+    font-size: var(--font-size-lgi);
+    line-height: 36px;
+  }
+  .whatsapp-icon-inner {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .whatsapp-icon {
+    gap: var(--gap-15xl);
+  }
+  .frame-container {
+    gap: var(--gap-mini);
+  }
+  .image-2-icon {
+    min-width: 100%;
+  }
+  .wrapper-place-wedding-ceremony-parent {
+    gap: var(--gap-mid);
+  }
+  .frame-group-section3 {
+    gap: var(--gap-lgi);
+    padding-bottom: var(--padding-7xl);
+    box-sizing: border-box;
+  }
+}
+
+/* about-bottom-section */
+.rating {
+  position: relative;
+  letter-spacing: 5px;
+  line-height: 25px;
+  text-transform: uppercase;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 88px;
+}
+.about-rating-ceremony {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+}
+.words-from-our {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-21xl);
+  line-height: 45px;
+  font-weight: 600;
+  font-family: var(--font-cormorant-garamond);
+  color: var(--color-indianred);
+  text-align: left;
+}
+.creating-best-day-ever,
+.i-am-andrea {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.creating-best-day-ever {
+  /* width: 507px; */
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+}
+.i-am-andrea {
+  margin-bottom: 45px;
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 0 var(--padding-3xl);
+  box-sizing: border-box;
+}
+.about-frame-inner {
+  width: 1px;
+  flex: 1;
+  position: relative;
+  border-right: 1px solid pink;
+  box-sizing: border-box;
+}
+.social-media-icons-inner {
+  height: 420px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-55xl) 0 0;
+  box-sizing: border-box;
+}
+.line-div {
+  width: 1px;
+  flex: 1;
+  position: relative;
+  border-right: 1px solid pink;
+  box-sizing: border-box;
+}
+.social-media-icons,
+.social-media-icons-child {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+}
+.social-media-icons-child {
+  height: 423px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-58xl) 0 0;
+}
+.social-media-icons {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 0 var(--padding-11xs) 0 0;
+  gap: var(--gap-3xs);
+  max-width: 100%;
+  font-size: var(--h02-size);
+  color: var(--color-dimgray);
+}
+.about-menu-content {
+  width: 1171px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+  max-width: 100%;
+}
+.highlight-color {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-4xl) var(--padding-30xl) var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--text-size);
+  color: var(--color-gray-300);
+  font-family: var(--text);
+}
+
+.black-border {
+  width: 100%;
+  height: 169px;
+  top: 65%;
+  left: 0;
+  background-color: black;
+}
+
+@media screen and (max-width: 1441px) {
+  .black-border {
+    height: 169px;
+    top: 65% !important;
+  }
+}
+
+@media screen and (max-width: 769px) {
+  .black-border {
+    height: 159px;
+    top: 68% !important;
+  }
+}
+
+@media screen and (max-width: 426px) {
+  .black-border {
+    height: 159px;
+    top: 63% !important;
+  }
+}
+@media screen and (max-width: 376px) {
+  .black-border {
+    height: 159px;
+    top: 65% !important;
+  }
+}
+
+@media screen and (max-width: 825px) {
+  .words-from-our {
+    font-size: var(--font-size-13xl);
+    line-height: 36px;
+  }
+  .about-menu-content {
+    gap: var(--gap-xl);
+  }
+  .highlight-color {
+    padding-bottom: var(--padding-13xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .words-from-our {
+    font-size: var(--font-size-5xl);
+    line-height: 27px;
+  }
+  .social-media-icons-inner {
+    padding-top: var(--padding-29xl);
+    box-sizing: border-box;
+  }
+  .social-media-icons-child {
+    padding-top: var(--padding-31xl);
+    box-sizing: border-box;
+  }
+}
+
+/* Frame Component 2 */
+.submit-button-icon {
+  height: 92px;
+  width: 92px;
+  position: relative;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.email-input {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+}
+.about-bottom-content {
+  font-size: 16px;
+  align-self: stretch;
+  position: relative;
+  line-height: 34px;
+}
+.cyril-and-nichole,
+.home-page-icon,
+.about-vector-icon1,
+.about-vector-icon2,
+.about-vector-icon3 {
+  height: 27px;
+  width: 28px;
+  position: relative;
+  min-height: 27px;
+}
+.cyril-and-nichole-parent,
+.about-frame-div {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.cyril-and-nichole-parent {
+  justify-content: flex-start;
+  gap: var(--gap-8xs);
+}
+.about-frame-div {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+}
+.cyril-and-nichole1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 45px;
+  font-weight: 600;
+  font-family: inherit;
+}
+.cyril-and-nichole-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-indianred);
+}
+.email-input-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-10xs) 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-sm);
+  min-width: 246px;
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--h02-size);
+  color: var(--color-dimgray);
+  font-family: var(--text);
+}
+@media screen and (max-width: 450px) {
+  .about-bottom-content {
+    /* font-size: var(--text-size); */
+    line-height: 29px;
+  }
+  .cyril-and-nichole1 {
+    font-size: var(--font-size-lgi);
+    line-height: 36px;
+  }
+}
+.overlap {
+  margin-bottom: -2px;
+}
+
+ul.testimonials {
+  display: flex;
+  list-style: none;
+  overflow-x: scroll;
+  padding: 0 !important;
+  width: 100%;
+  border-radius: 1rem;
+  background: rgb(247, 247, 250);
+}
+
+::-webkit-scrollbar {
+  height: 0px;
+  width: 5px;
+  background: rgba(255, 255, 255, 0.2);
+  -webkit-border-radius: 1ex;
+}
+
+ul.testimonials li {
+  flex: 0 0 800px;
+  padding: 40px 20px;
+}
+.wedding-tab-active {
+  border-bottom: 3px solid var(--color-indianred);
+}
+.wedding-tab-text {
+  position: relative;
+  line-height: 36px;
+  display: inline-block;
+  font-weight: 300;
+  min-width: 98px;
+  text-align: left;
+}
+.wedding-tab-inner {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) var(--padding-9xs) 0 0;
+}
+
+.wedding-tab-content,
+.wedding-tab-items {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.wedding-tab-items {
+  flex: 1;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  text-wrap: nowrap;
+  flex-wrap: nowrap;
+  overflow: auto;
+}
+.wedding-tab-content {
+  /* width: 552.5px; */
+  width: auto;
+  justify-content: flex-start;
+  padding: 0 var(--padding-3xs);
+  box-sizing: border-box;
+}
+
+.wedding-tab-parent {
+  border-bottom: 1px solid #d0d0d0;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-200);
+  font-family: var(--text);
+}
+
+.payment-loader {
+  width: 30%;
+  height: 20px;
+  position: fixed;
+  top: 50%;
+  left: 36%;
+  background-color: #fff;
+  border: 1px solid #fff;
+  border-radius: 4px;
+  background-image: linear-gradient(
+    45deg,
+    rgba(0, 0, 0, 0.25) 25%,
+    transparent 25%,
+    transparent 50%,
+    rgba(0, 0, 0, 0.25) 50%,
+    rgba(0, 0, 0, 0.25) 75%,
+    transparent 75%,
+    transparent
+  );
+  font-size: 30px;
+  background-size: 1em 1em;
+  box-sizing: border-box;
+  animation: barStripe 1s linear infinite;
+  z-index: 11;
+}
+
+@keyframes barStripe {
+  0% {
+    background-position: 1em 0;
+  }
+  100% {
+    background-position: 0 0;
+  }
+}
+
+.payment-text {
+  color: #fff;
+  font-size: 25px;
+  position: fixed;
+  top: 53%;
+  left: 34%;
+  z-index: 11;
+  width: 35%;
+}
+
+@media screen and (max-width: 1030px) {
+  .payment-text {
+    color: #fff;
+    font-size: 20px;
+    position: fixed;
+    top: 53%;
+    left: 32%;
+    z-index: 11;
+    width: 40%;
+  }
+}
+
+@media screen and (max-width: 770px) {
+  .payment-text {
+    color: #fff;
+    font-size: 16px;
+    position: fixed;
+    top: 53%;
+    left: 24%;
+    z-index: 11;
+    width: 55%;
+  }
+}
+
+@media screen and (max-width: 330px) {
+  .payment-text {
+    color: #fff;
+    font-size: 14px;
+    position: fixed;
+    top: 53%;
+    left: 16%;
+    z-index: 11;
+    width: 70%;
+  }
+}
+
+.payment-modal {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 70%;
+
+  padding: 6rem;
+  border-radius: 5px;
+  z-index: 10;
+}
+
+.payment-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(3px);
+  z-index: 5;
+}
+.gallery-height {
+  height: 20pc;
+}

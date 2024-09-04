@@ -1,0 +1,179 @@
+/* styles/fonts.css */
+
+/* Import the Google Font you want to use */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300..700;1,300..700&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+/* Apply the font to your desired elements */
+.Stay-in-loop-with-the-latest-tips-trends {
+  height: 25.8px;
+  flex-grow: 0;
+  margin: 0 0 35.5px 0;
+  object-fit: contain;
+  font-family: Montserrat;
+  font-size: 20px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #fff;
+  text-align: center;
+}
+.Submit {
+  height: 19.4px;
+  flex-grow: 0;
+  font-family: Montserrat;
+  font-size: 15px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #fff;
+}
+.title {
+  height: 244px;
+  margin: 0 auto 27px 0;
+  font-family: Cormorant;
+  font-size: 50px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #d9544d;
+}
+
+.Sitemap {
+  height: 24px;
+  flex-grow: 0;
+  font-family: Montserrat;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #d9544d;
+}
+
+.menu_item {
+  text-decoration: none !important;
+  height: 25px;
+  flex-grow: 0;
+  font-family: Montserrat;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.56;
+  letter-spacing: normal;
+  text-align: left;
+  color: #d9544d;
+  margin-right: 12px;
+}
+
+.menu_item:active,
+.menu_item:hover {
+  color: #f88e2f !important;
+}
+
+.Copyright-2020-Laa {
+  height: 25px;
+  flex-grow: 0;
+  font-family: Montserrat;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.56;
+  letter-spacing: normal;
+  text-align: left;
+  color: #d9544d;
+}
+.Terms-of-Use {
+  height: 25px;
+  flex-grow: 0;
+  font-family: Montserrat;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.56;
+  letter-spacing: normal;
+  text-align: right;
+  color: #d9544d;
+}
+.Privacy-Policy {
+  height: 25px;
+  flex-grow: 0;
+  font-family: Montserrat;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.56;
+  letter-spacing: normal;
+  text-align: right;
+  color: #d9544d;
+}
+
+.Rectangle {
+  height: 40.4px;
+  flex-grow: 0;
+  padding: 10.5px 25px;
+  border-radius: 50px;
+  border: solid 1px #fff;
+}
+
+.email_input .MuiInputLabel-root {
+  color: white !important;
+  border: white !important;
+}
+
+.email_input .MuiInputBase-root {
+  color: white !important;
+}
+.email_input .MuiInputBase-root::before {
+  border-bottom: none !important;
+}
+
+.MuiInputBase-root {
+  border-bottom: 1px solid transparent; /* Initially set border to transparent */
+  transition: border-color 0.3s ease; /* Add transition for smooth effect */
+}
+
+.MuiInputBase-root:hover {
+  border-bottom-color: white; /* Change border color to white on hover */
+}
+
+.Vector {
+  width: 26px;
+  height: 26px;
+  color: #fff;
+}
+
+.common-padding {
+  padding: 0 var(--padding-xl) 0 var(--padding-2xl);
+}
+
+/* Home Footer Responsive Css */
+@media (max-width: 600px) {
+  .sitemap-font {
+    font-size: 40px !important;
+  }
+}
+
+@media screen and (max-width: 426px) {
+  .footer_form {
+    height: 600px !important;
+  }
+}
+
+.muiinputbase-root {
+  border: 5px solid green !important;
+}
